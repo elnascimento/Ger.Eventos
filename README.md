@@ -1,1 +1,1 @@
-Repositório armazenamento artefatos processo Ger. de Eventos 
+Repositório para armazenamento dos artefatos processo Ger. de Eventos 
